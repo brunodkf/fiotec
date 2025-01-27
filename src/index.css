@@ -1,0 +1,40 @@
+.navbar__link:hover{
+    transition: .2s ease-in-out;
+    color: #0086c9 !important;
+}
+.navbar__link:focus{
+    color: #0086c9 !important;
+}
+
+.home{
+    width: 100%;
+}
+
+.main{
+    width: 100vw;
+    height: 100vh ;
+}
+.main__container{
+    padding: 2em;
+}
+
+.filtros{
+    max-width: 250px;
+    min-width: 250px;
+    min-height: 70vh;
+    max-height: 400px;
+    background-color: #EDEDED;
+    padding: 1em;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.filtros li{
+    padding-bottom: 1em;
+}
+
+.filtros__lista{
+    list-style: none;
+    padding: 0;
+}
+.filtros__lista--item:hover{
+  color: #0086c9;
+}
