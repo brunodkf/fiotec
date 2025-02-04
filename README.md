@@ -1,5 +1,3 @@
-# Teste para candidatos à vaga de Desenvolvedor ReactJS
-
 ## Tecnologias  utilizadas
 
 - HTML / CSS
